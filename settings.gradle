@@ -1,0 +1,2 @@
+rootProject.name = "WeatherApp_inKotlin"
+include ':app'

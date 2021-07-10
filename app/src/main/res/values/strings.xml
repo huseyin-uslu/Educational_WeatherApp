@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp_inKotlin</string>
+    <string name="error_message">Error, Try Again!</string>
+</resources>
